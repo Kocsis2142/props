@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+body {
+  background-color: rgb(229, 240, 240);
+}
+
+h1 {
+  color:rgb(187, 43, 43)
+}
+
+.container1, .container2, .container3, .container4, .container5, .container6 {
+  opacity: 0.1;
+}
+.container1:hover, .container2:hover, .container3:hover, .container4:hover, .container5:hover, .container6:hover {
+  opacity: 1;
+}
